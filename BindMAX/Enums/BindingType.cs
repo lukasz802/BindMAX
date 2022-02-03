@@ -2,8 +2,8 @@
 {
     public enum BindingType
     {
-        OneWayToSource,
         OneWay,
+        OneWayToSource,
         TwoWays
     }
 }
